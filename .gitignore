@@ -1,0 +1,5 @@
+build/*.vcd
+build/*.vcd
+build/*.vvp
+build/*.fst
+*.wdb
